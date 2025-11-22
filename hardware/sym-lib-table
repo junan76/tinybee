@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tinybee")(type "KiCad")(uri "${KIPRJMOD}/lib/tinybee.kicad_sym")(options "")(descr ""))
+)

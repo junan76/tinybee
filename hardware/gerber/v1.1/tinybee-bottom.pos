@@ -1,0 +1,39 @@
+### Footprint positions - created on 2025-11-22T16:00:36+0800 ###
+### Printed by KiCad version 9.0.6-9.0.6~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                                PosX       PosY       Rot  Side
+C19       100nF           C_0402_1005Metric                                  144.9578  -103.7590  -90.0000  bottom
+C20       100nF           C_0402_1005Metric                                  134.0906  -106.2990  -90.0000  bottom
+C21       100nF           C_0402_1005Metric                                  134.0906  -109.9854   90.0000  bottom
+C22       22uF            C_0603_1608Metric                                  133.0706  -102.3112  180.0000  bottom
+C23       22uF            C_0603_1608Metric                                  133.0706  -104.1908  180.0000  bottom
+C24       100nF           C_0402_1005Metric                                  132.1300  -109.9854  -90.0000  bottom
+C25       10uF            C_0402_1005Metric                                  134.3846   -86.4189  180.0000  bottom
+C26       1uF             C_0402_1005Metric                                  125.7180   -94.1324  180.0000  bottom
+C27       100nF           C_0402_1005Metric                                  134.3846   -87.7464  180.0000  bottom
+C28       100nF           C_0402_1005Metric                                  134.3872   -89.0739    0.0000  bottom
+C29       470pF           C_0402_1005Metric                                  126.9889  -101.6196  -90.0000  bottom
+C30       2.2uF           C_0402_1005Metric                                  124.3339  -101.6196  -90.0000  bottom
+C31       75pF            C_0402_1005Metric                                  141.6490   -86.4323    0.0000  bottom
+C32       10uF            C_0402_1005Metric                                  122.1780   -94.1324    0.0000  bottom
+C33       10uF            C_0402_1005Metric                                  129.2580   -94.1324  180.0000  bottom
+F1        750mA           Fuse_1206_3216Metric                               137.9220   -83.6422  180.0000  bottom
+J3        UART4           JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal   132.1300  -115.4900  180.0000  bottom
+J6        Analog_Camera   JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal   131.4544   -81.3516    0.0000  bottom
+J9        Digital_VTX     JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal   147.1200  -115.4900  180.0000  bottom
+J10       ESC             JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal   146.6348   -81.3516    0.0000  bottom
+L1        10uH            L_Changjiang_FXL0630                               125.7180   -89.7890  180.0000  bottom
+Q2        SS8050          SOT-23                                             139.0800  -116.7384   90.0000  bottom
+R12       75R             R_0402_1005Metric                                  132.1300  -106.3478  -90.0000  bottom
+R13       75R             R_0402_1005Metric                                  130.1242  -110.0054  -90.0000  bottom
+R14       18k             R_0402_1005Metric                                  137.9200   -81.4578    0.0000  bottom
+R15       2k              R_0402_1005Metric                                  137.9200   -79.9183  180.0000  bottom
+R16       100k            R_0402_1005Metric                                  141.6690   -87.7598  180.0000  bottom
+R17       13.3k           R_0402_1005Metric                                  141.6690   -89.0773    0.0000  bottom
+R24       10k             R_0402_1005Metric                                  139.0800  -113.9200  180.0000  bottom
+U5        AT7456E         TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm        139.9617  -107.4842  180.0000  bottom
+U6        TPS54302        SOT-23-6                                           137.9419   -87.6910    0.0000  bottom
+U7        MIC5219-3.3YM5  SOT-23-5                                           125.7489   -98.1652  -90.0000  bottom
+Y2        27MHz           Crystal_SMD_3225-4Pin_3.2x2.5mm                    148.0820  -104.7496    0.0000  bottom
+## End
