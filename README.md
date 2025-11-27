@@ -2,7 +2,9 @@
 
 This repository contains the hardware design of tinybeef405 flight controller, It supports the latest betaflight firmware currently, you can build your own firmware with the configuration files in the `configs` directory, see the details below.
 
-I personally use this flight controller board as a hardware platform to learn betafight source code and stm32 microcontrollers, related videos will be posted on my [Bilibili](https://space.bilibili.com/258537970) account.
+I personally use this flight controller board as a hardware platform to learn betafight source code and stm32 microcontrollers, related videos were posted on my [Bilibili](https://space.bilibili.com/258537970) account.
+
+![tinybee-v1.1 pcb board](./imgs/tinybee-v1.1.jpg)
 
 ## Hardware and Features
 
@@ -57,7 +59,7 @@ betaflight_2025.12.0-beta_STM32F405_TNBF405.hex  main
 
     - Go to the `Firmware Flasher` tab
 
-        ![alt text](./imgs/firmware-flasher-tab.png)
+        ![firmware flasher tab](./imgs/firmware-flasher-tab.png)
 
     - Load local firmware then flash firmware
 
@@ -77,9 +79,9 @@ betaflight_2025.12.0-beta_STM32F405_TNBF405.hex  main
     
     If everything goes well, the final result will be like this:
 
-    ![alt text](./imgs/setup.png)
+    ![setup page](./imgs/setup.png)
 
-    ![alt text](./imgs/ports.png)
+    ![ports page](./imgs/ports.png)
 
 ## Special Thanks
 
